@@ -10,7 +10,7 @@ Pokemon-Tools contains useful functions for Pokemon Games:
   * Gen 7 Games
     * Egg RNG
 
-## Installing Instructions
+## Installation Instructions
 1. Install [Java](https://java.com/en/download/)
 2. Clone this repository or download and extract the Archive from the [latest release](https://github.com/Washakwil/Pokemon-Tools/releases).
 3. Go to the folder where you cloned or extracted it.
