@@ -11,7 +11,7 @@ Pokemon-Tools contains useful functions for Pokemon Games:
     * Egg RNG
 
 ## Installing Instructions
-1. Install [Java](https://java.com/de/download/)
-2. Clone this repository: ```git clone https://github.com/Washakwil/Pokemon-Tools```
-3. Go to this repository: ```cd Pokemon-Tools```
-4. Run Pokemon-Tools.jar: ```java -jar Pokemon-Tools.jar```
+1. Install [Java](https://java.com/en/download/)
+2. Clone this repository or download and extract the Archive from the [latest release](https://github.com/Washakwil/Pokemon-Tools/releases).
+3. Go to the folder where you cloned or extracted it.
+4. Run Pokemon-Tools.jar.
