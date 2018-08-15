@@ -15,3 +15,6 @@ Pokemon-Tools contains useful functions for Pokemon Games:
 2. Clone this repository or download and extract the Archive from the [latest release](https://github.com/Washakwil/Pokemon-Tools/releases).
 3. Go to the folder where you cloned or extracted it.
 4. Run Pokemon-Tools.jar.
+
+## Bug Report
+Please report issues [here](https://github.com/Washakwil/Pokemon-Tools/issues).
