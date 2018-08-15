@@ -121,6 +121,7 @@ public class GuiProfileEditor extends JFrame implements ActionListener {
 		int gen = game .getGeneration();
 		SwingUtil.enableJPanel(status, gen == 7);
 		keyInput.setEnabled(gen >= 6);
+		chooseKey.setEnabled(gen >= 6);
 		shinyCharm.setEnabled(game.shinyCharm());
 		tsvInput.setMax(gen >= 6 ? 0xFFF : 0x1FFF);
 	}
