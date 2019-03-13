@@ -2,7 +2,7 @@
 ## Info
 Pokemon-Tools contains useful functions for Pokemon Games:
 * IV Calculator
-* Battle Video Breaker for Gen 6 an 7 Games
+* Battle Video Breaker for Gen 6 and 7 Games
 * RNG
   * Gen 4 Games
     * Cute Charm Calculator
@@ -18,3 +18,4 @@ Pokemon-Tools contains useful functions for Pokemon Games:
 
 ## Bug Report
 Please report issues [here](https://github.com/Washakwil/Pokemon-Tools/issues).
+Battle Video Breaker for Gen 6 an 7 Games
